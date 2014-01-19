@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1333917712 source:c:\users\user\desktop\tp1 c\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1368292513 source:c:\users\user\desktop\tp1 c\tp1\tp1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1369773607 source:c:\users\user\documents\travail\tp c\tp1\tp1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+

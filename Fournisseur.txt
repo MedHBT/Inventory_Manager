@@ -1,0 +1,10 @@
+1    MON ENTREPRISE 
+12   AOPEN          
+1463 NEC            
+46   TOSHIBA        
+801  MEUBLETEX      
+5321 CARTONNERIE    
+122  SONY VAIO      
+140  SONY           
+145  AOX            
+178  INTEL          
